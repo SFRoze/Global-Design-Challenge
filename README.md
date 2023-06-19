@@ -1,2 +1,5 @@
 # Global-Design-Challenge
-Joined and worked in a small group for the GDC challenge, a challenge that provides a brief and challenges STEM students to create a solution against the brief
+
+The brief introduced Maker's valley in Johnnesberg, a place for creative individuals that has issues concerning transportation.
+
+Our WINNING idea proposed an afforable biking network that aims to provide free transportation for students and workers alike.
